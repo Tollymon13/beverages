@@ -1,7 +1,7 @@
 # beverages
 
 ## Introduction
-This project goes through the main features of Object Oriented Programming in C++. The main concept of the program revolves around various beverages (i.e. drinks), and playing around with their features (i.e. added sugar, company name etc.).
+This project goes through the main concept of Object Oriented Programming in C++. The main idea of the program revolves around various beverages (i.e. drinks), and playing around with their features (i.e. added sugar, company name etc.).
 
 ### Inheritance
 “Beverages” class represents the base class from which “energyDrinks”,” fruit Juice” and (through
