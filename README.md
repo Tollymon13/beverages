@@ -1,4 +1,4 @@
-# beverages
+# Beverages
 
 ## Introduction
 This project goes through the main concept of Object Oriented Programming in C++. The main idea of the program revolves around various beverages (i.e. drinks), and playing around with their features (i.e. added sugar, company name etc.).
